@@ -12,3 +12,5 @@ Assignment 3: Collinear Points
 Assignment 4: 8 Puzzle
 
 Assignment 5: Kd-Trees
+
+Assignment 6: WordNet
