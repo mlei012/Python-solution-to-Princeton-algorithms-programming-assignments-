@@ -14,3 +14,6 @@ Assignment 4: 8 Puzzle
 Assignment 5: Kd-Trees
 
 Assignment 6: WordNet
+
+Assignment 7: Seam-carving
+
