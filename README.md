@@ -17,3 +17,4 @@ Assignment 6: WordNet
 
 Assignment 7: Seam-carving
 
+Assignment 8: Baseball Elimination
